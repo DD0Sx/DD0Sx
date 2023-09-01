@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DD0Sx
 - 👀 I’m interested in building my coding portfolio and expanding my skillset.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python, HTML, and CSS
   
 
 <!---
